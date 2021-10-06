@@ -21,7 +21,7 @@ download: 'https://assets.learn-the-web.algonquindesign.ca/web-design-2/fastness
 - [ ] Resize, compress & smush all the images
 - [ ] Remove any ads
 - [ ] Remove any tracking scripts
-- [ ] Clean out the `main.css` file be removing the unnecessary code
+- [ ] Clean out the `main.css` file by removing the unnecessary code
 - [ ] Fix all the broken URLs & links
 
 ---
